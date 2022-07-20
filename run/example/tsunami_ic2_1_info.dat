@@ -1,0 +1,8 @@
+t = 0.000000 yr: unbound binary-single (2+1,0) next pericenter passage in 12364.160234 yr (at 12364.160234 yr)
+t = 43.786118 yr: bound binary-single (2+1,0), a=26.465860 au, e=0.904928, next pericenter passage in 14.589832 yr (at 71.859413 yr)
+t = 73.041062 yr: bound binary-single (2+0,1), a=22.385078 au, e=0.894498, next pericenter passage in 11.167192 yr (at 94.624145 yr)
+t = 109.624907 yr: bound binary-single (2+0,1), a=25.340680 au, e=0.882346, next pericenter passage in 13.326697 yr (at 135.901133 yr)
+t = 139.392666 yr: bound binary-single (2+0,1), a=17.577450 au, e=0.834328, next pericenter passage in 7.893171 yr (at 151.751270 yr)
+t = 167.522880 yr: unbound binary-single (1+0,2) on diverging orbits
+t = 420.982888 yr: binary-single separation is >100 abin, stopping (escaper id=2, m=1.515276 MSun, vesc=15.831874 km/s, abin=10.304282 au, ebin=0.775124)
+t = 420.9828880597199259 yr: encounter complete; Nhomo=18; Nhomo_fex=2 (2); longest_ex=2.7045218420325426e+01 yr; longest_begin=4.3786117512421377e+01 yr; first_ex=2.7045218420325426e+01 yr; tex_cumulative=8.3247944397433756e+01 yr; last_ex=9.8814263523763373e+00 yr; last_ex_begin=1.3939266645579599e+02 yr; Nex=4; originalbin=0; hangle=1.4507490387884132e+00; status=1; ahyp=-7.7024911183647788e+01; ehyp=1.0639577013925841e+00; omegabin=-1.6937853362794182e+00; Nbarak=2; Nsteve=-1891649924
